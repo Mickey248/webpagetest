@@ -134,6 +134,7 @@ agentUpdate=http://cdn.webpagetest.org/
 ;ba_username=username
 ;ba_password=password
 ;validcertificate=1
+;recaptcha_key:6LfYXTwUAAAAAPyn1ID4UdsXs-ja3P7qPib37asw
 
 ; ***********************
 ; Test result integration
